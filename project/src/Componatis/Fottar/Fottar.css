@@ -1,0 +1,15 @@
+
+.Product-detelis{
+    background-color:navy;
+}
+
+.service h3{
+font-weight: 700;
+font-family: Arial, Helvetica, sans-serif;
+border-bottom: 1px solid white;
+color: white;
+text-align: center;
+}
+.bottom-product{
+    border-right: 1px solid white;
+}

@@ -1,0 +1,9 @@
+.Color{
+  background:linear-gradient(45deg,#6f9ed8,#d261ae)
+}
+.Color{
+    height: 350px;
+    color:white;
+    border-radius: 10px;
+    text-align: center;
+}
